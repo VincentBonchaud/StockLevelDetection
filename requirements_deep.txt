@@ -1,0 +1,8 @@
+ipykernel
+requests
+numpy
+pandas
+scikit-image
+sklearn
+opencv-python
+tensorflow
